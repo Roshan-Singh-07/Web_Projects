@@ -48,4 +48,4 @@ This project is licensed under the [MIT License](https://chat.openai.com/c/LICEN
 
 ## Contact
 
-If you have any questions or suggestions regarding the Little Taco Shop project, please feel free to contact us at [theroshansingh89@gmail.com](mailto:theroshansingh89@gmail.com). We appreciate your feedback and support!
+If you have any questions or suggestions regarding the Little Taco Shop project, please feel free to contact me at [theroshansingh89@gmail.com](mailto:theroshansingh89@gmail.com). We appreciate your feedback and support!
